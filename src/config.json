@@ -1,8 +1,8 @@
 {
   "title": "海田町あれこれマップ",
-  "description": "「昔住んでた海田町のあれこれ」で取り上げた場所をマッピングしています\n「Geolonia PWAマップ」",
+  "description": "「昔住んでた海田町のあれこれ」で取り上げた場所をマッピングしています",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://kaita.jpn.org/wp-content/uploads/2022/05/cropped-favicon.png",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
